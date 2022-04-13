@@ -1,0 +1,15 @@
+On Database: 'phones'
+build
+ Table that name 'admin'
+-------------
+CREATE TABLE admin (
+  admin_id int(3) PRIMARY KEY AUTO_INCREMENT,
+  admin_name varchar(50) NOT NULL,
+  email varchar(100) NOT NULL,
+  password varchar(100) NOT NULL
+);
+
+-------------
+insert data for table admin
+INSERT INTO admin (admin_id, admin_name, email, password) VALUES
+(1, 'mohammad', 'mohammad@gmail.com', 'ass1234');
