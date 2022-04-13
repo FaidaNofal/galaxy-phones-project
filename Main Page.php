@@ -94,8 +94,7 @@ if (isset($_POST['Buy']))
  <div class="row">
 	<div class="col-2">
 		<h1>Galaxy Phones</h1>
-		<p> <b> We have the best choice to buy your phone, And the lowest costs. </b>  </p>
-		<p><b>Click on any device to see its information.</b></p> 
+		<p> <b> We have the best choice to buy your phone, And the lowest costs. </b>  </p> 
 			<a href="#move" class="btn">Explore Now &#8594;</a>
 			<a href="info_for_phones.php" class="btn">Explore With Information for devices &#8594;</a>
 	</div>
